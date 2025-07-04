@@ -1,0 +1,9 @@
+C:\Users\abhik\Mods\SmithyStaminaRegen\bin\x64\Debug\net472\SmithyStaminaRegen.dll
+C:\Users\abhik\Mods\SmithyStaminaRegen\bin\x64\Debug\net472\SmithyStaminaRegen.pdb
+C:\Users\abhik\Mods\SmithyStaminaRegen\obj\x64\Debug\net472\SmithyStaminaRegen.csproj.AssemblyReference.cache
+C:\Users\abhik\Mods\SmithyStaminaRegen\obj\x64\Debug\net472\SmithyStaminaRegen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhik\Mods\SmithyStaminaRegen\obj\x64\Debug\net472\SmithyStaminaRegen.AssemblyInfoInputs.cache
+C:\Users\abhik\Mods\SmithyStaminaRegen\obj\x64\Debug\net472\SmithyStaminaRegen.AssemblyInfo.cs
+C:\Users\abhik\Mods\SmithyStaminaRegen\obj\x64\Debug\net472\SmithyStaminaRegen.csproj.CoreCompileInputs.cache
+C:\Users\abhik\Mods\SmithyStaminaRegen\obj\x64\Debug\net472\SmithyStaminaRegen.dll
+C:\Users\abhik\Mods\SmithyStaminaRegen\obj\x64\Debug\net472\SmithyStaminaRegen.pdb
